@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\juan-david\programacion\lenguajes\C#\ejercicios\FormatosDeCadena\bin\Debug\net8.0\FormatosDeCadena.exe
+C:\Users\Usuario\Desktop\juan-david\programacion\lenguajes\C#\ejercicios\FormatosDeCadena\bin\Debug\net8.0\FormatosDeCadena.deps.json
+C:\Users\Usuario\Desktop\juan-david\programacion\lenguajes\C#\ejercicios\FormatosDeCadena\bin\Debug\net8.0\FormatosDeCadena.runtimeconfig.json
+C:\Users\Usuario\Desktop\juan-david\programacion\lenguajes\C#\ejercicios\FormatosDeCadena\bin\Debug\net8.0\FormatosDeCadena.dll
+C:\Users\Usuario\Desktop\juan-david\programacion\lenguajes\C#\ejercicios\FormatosDeCadena\bin\Debug\net8.0\FormatosDeCadena.pdb
+C:\Users\Usuario\Desktop\juan-david\programacion\lenguajes\C#\ejercicios\FormatosDeCadena\obj\Debug\net8.0\FormatosDeCadena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\juan-david\programacion\lenguajes\C#\ejercicios\FormatosDeCadena\obj\Debug\net8.0\FormatosDeCadena.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\juan-david\programacion\lenguajes\C#\ejercicios\FormatosDeCadena\obj\Debug\net8.0\FormatosDeCadena.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\juan-david\programacion\lenguajes\C#\ejercicios\FormatosDeCadena\obj\Debug\net8.0\FormatosDeCadena.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\juan-david\programacion\lenguajes\C#\ejercicios\FormatosDeCadena\obj\Debug\net8.0\FormatosDeCadena.dll
+C:\Users\Usuario\Desktop\juan-david\programacion\lenguajes\C#\ejercicios\FormatosDeCadena\obj\Debug\net8.0\refint\FormatosDeCadena.dll
+C:\Users\Usuario\Desktop\juan-david\programacion\lenguajes\C#\ejercicios\FormatosDeCadena\obj\Debug\net8.0\FormatosDeCadena.pdb
+C:\Users\Usuario\Desktop\juan-david\programacion\lenguajes\C#\ejercicios\FormatosDeCadena\obj\Debug\net8.0\FormatosDeCadena.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\juan-david\programacion\lenguajes\C#\ejercicios\FormatosDeCadena\obj\Debug\net8.0\ref\FormatosDeCadena.dll
